@@ -1,6 +1,0 @@
-#ifndef MASKBLUETOOTH_H
-#define MASKBLUETOOTH_H
-
-
-
-#endif // MASKBLUETOOTH_H
